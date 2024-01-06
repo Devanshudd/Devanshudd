@@ -18,7 +18,6 @@ new Person({
     title  : 'Full Stack Developer',
     email  : 'devanshudd4@gmail.com',
     website: 'https://devanshureactportfolio.netlify.app/',
-    married: !!!false,
 }).sayHello();
 ```
 
