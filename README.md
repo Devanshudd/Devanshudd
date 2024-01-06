@@ -29,9 +29,9 @@ Hi, my name is Dudhia Devanshu, I'm a Full Stack Developer from India.
 
 
 ###
-
+<div align="center">
 <p align="left">👩🏻‍💻 Pronouns: He/Him<br>💼 I’m currently working as a Senior Software Engineer at BOSCH.<br>🎒 I've done internship at BOSCH in frontend primarily.<br>🧭 I love exploring and working both in frontend and backend.<br>🎭 I love speaking at events and connecting with people.<br>📫 Checkout my Portfolio: https://devanshureactportfolio.netlify.app/</p>
-
+</div>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
