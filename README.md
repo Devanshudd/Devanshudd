@@ -11,20 +11,20 @@
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from 'India';
 
 new Person({
-    name   : 'Deri Kurniawan',
+    name   : 'Dudhia Devanshu',
     title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id/',
-    married: !!!true,
+    email  : 'devanshudd4@gmail.com',
+    website: 'https://devanshureactportfolio.netlify.app/',
+    married: !!!false,
 }).sayHello();
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+D:\Devanshudd> node index.js
+Hi, my name is Dudhia Devanshu, I'm a Full Stack Developer from India.
 ```
 
 <h3 align="left">👩‍💻  About Me</h3>
