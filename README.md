@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Devanshu Dudhia 👋</h1>
+<h1 align="center">Hola, I'm Devanshu 👋</h1>
 
 ###
 <img src="/assets/images/horizontal-divider-gradient.gif">
@@ -81,12 +81,6 @@ Hi, my name is Dudhia Devanshu, I'm a Full Stack Developer from India.
   <a href="https://www.instagram.com/devanshu_dd/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
- <img  width="350" src="/assets/programmer.gif" alt="Coding gif" />
 </div>
 
 ###
