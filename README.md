@@ -1,6 +1,31 @@
 <h1 align="center">Hola, I'm Devanshu Dudhia 👋</h1>
 
 ###
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjR6aTU1MmF5Z3NlaGtmNWoyNGlsZ2ZiazI5a3N4OWJwZnFoeHltMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="350">
+</a>
+</picture>
+
+```js
+"use creativity";
+import { Person } from 'indonesia';
+
+new Person({
+    name   : 'Deri Kurniawan',
+    title  : 'Full Stack Developer',
+    email  : 'deri.netuchi@gmail.com',
+    website: 'https://deri.my.id/',
+    married: !!!true,
+}).sayHello();
+```
+
+```cmd
+D:\Deri-Kurniawan> node index.js
+Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+```
 
 <h3 align="left">👩‍💻  About Me</h3>
 
