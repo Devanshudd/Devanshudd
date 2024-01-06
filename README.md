@@ -27,7 +27,7 @@ D:\Devanshudd> node index.js
 Hi, my name is Dudhia Devanshu, I'm a Full Stack Developer from India.
 ```
 
-<h3 align="left">👩‍💻  About Me</h3>
+
 
 ###
 
