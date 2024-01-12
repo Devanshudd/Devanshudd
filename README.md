@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Frontend Technologies**
 
-- 👨‍💻 All of my projects are available at [Devanshu's Portfolio](https://devanshureactportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Devanshu's Portfolio](https://devanshuportfolio.vercel.app/)
 
 - 💬 Ask me about **React, Python and NodeJS**
 
