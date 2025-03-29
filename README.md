@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **devanshudd4@gmail.com**
 
-- 📄 Know about  [My Resume](https://drive.google.com/file/d/1DuuKqOKqGtiBVKwjLt6yLUJoYT7gT_u2/view)
+- 📄 Know about  [My Resume](https://drive.google.com/file/d/1_xp5nJLQJlzcPIb9jOnlhSJ3rSsnCskg/view)
 
 - ⚡ Fun fact **I think I'm funny**
 
