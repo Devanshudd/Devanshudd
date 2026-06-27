@@ -24,7 +24,7 @@
 <br><br>
 
 - 🔭 I’m currently working as Software Development Engineer(I2)
--  At **Avalara**
+  At **Avalara**
 
 - 🌱 I’m currently learning **Frontend Technologies**
 
